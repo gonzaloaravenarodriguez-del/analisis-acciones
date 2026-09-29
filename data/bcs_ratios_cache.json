@@ -1,0 +1,807 @@
+{
+  "AAISA": [
+    {
+      "DESCRIPCION": "PERIODO",
+      "VALOR01": 3,
+      "VALOR02": 2026
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 03 Meses",
+      "VALOR01": 20.0693,
+      "VALOR02": 5.7082
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 62.9159,
+      "VALOR02": 44.13237
+    },
+    {
+      "DESCRIPCION": "Valor Libro",
+      "VALOR01": 400.7801,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Margen Directo / Ventas",
+      "VALOR01": 0.5208,
+      "VALOR02": 0.8842
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Ventas",
+      "VALOR01": 0.2103,
+      "VALOR02": 0.1479
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Cap. y Res.",
+      "VALOR01": 0.0527,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Circulante",
+      "VALOR01": 2.6445,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Acida",
+      "VALOR01": 2.6445,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo Exigible / Patrimonio",
+      "VALOR01": -0.4699,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo L. Plazo / Patrimonio",
+      "VALOR01": 1.1417,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Inversion",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Acciones en Circulacion",
+      "VALOR01": 1000000000,
+      "VALOR02": 1000000000
+    },
+    {
+      "DESCRIPCION": "Relacion Precio / Utilidad",
+      "VALOR01": 6.1225,
+      "VALOR02": 5.2496
+    },
+    {
+      "DESCRIPCION": "Relacion Bolsa / Libro",
+      "VALOR01": 0.9611,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Precio Cierre",
+      "VALOR01": 385.2,
+      "VALOR02": 231.676
+    }
+  ],
+  "ANDINA-A": [
+    {
+      "DESCRIPCION": "PERIODO",
+      "VALOR01": 6,
+      "VALOR02": 2026
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 06 Meses",
+      "VALOR01": 142.5166,
+      "VALOR02": 125.20894
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 22.5157,
+      "VALOR02": 381.67207
+    },
+    {
+      "DESCRIPCION": "Valor Libro",
+      "VALOR01": 1394.2198,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Margen Directo / Ventas",
+      "VALOR01": 0.4003,
+      "VALOR02": 0.3914
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Ventas",
+      "VALOR01": 0.0773,
+      "VALOR02": 0.0704
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Cap. y Res.",
+      "VALOR01": 0.1139,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Circulante",
+      "VALOR01": 1.6126,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Acida",
+      "VALOR01": 1.0814,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo Exigible / Patrimonio",
+      "VALOR01": 1.6164,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo L. Plazo / Patrimonio",
+      "VALOR01": 1.148,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Inversion",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Acciones en Circulacion",
+      "VALOR01": 946570604,
+      "VALOR02": 946570604
+    },
+    {
+      "DESCRIPCION": "Relacion Precio / Utilidad",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Relacion Bolsa / Libro",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Precio Cierre",
+      "VALOR01": 0,
+      "VALOR02": 0
+    }
+  ],
+  "CENCOMALLS": [
+    {
+      "DESCRIPCION": "PERIODO",
+      "VALOR01": 6,
+      "VALOR02": 2026
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 06 Meses",
+      "VALOR01": 101.8689,
+      "VALOR02": 75.72371
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 207.4873,
+      "VALOR02": 239.00997
+    },
+    {
+      "DESCRIPCION": "Valor Libro",
+      "VALOR01": 1838.6679,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Margen Directo / Ventas",
+      "VALOR01": 0.9712,
+      "VALOR02": 0.9702
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Ventas",
+      "VALOR01": 0.8958,
+      "VALOR02": 0.683
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Cap. y Res.",
+      "VALOR01": 0.0587,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Circulante",
+      "VALOR01": 0.9857,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Acida",
+      "VALOR01": 0.9857,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo Exigible / Patrimonio",
+      "VALOR01": 0.5352,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo L. Plazo / Patrimonio",
+      "VALOR01": 0.4977,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Inversion",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Acciones en Circulacion",
+      "VALOR01": 1705831078,
+      "VALOR02": 1705831078
+    },
+    {
+      "DESCRIPCION": "Relacion Precio / Utilidad",
+      "VALOR01": 11.3838,
+      "VALOR02": 8.2997
+    },
+    {
+      "DESCRIPCION": "Relacion Bolsa / Libro",
+      "VALOR01": 1.2846,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Precio Cierre",
+      "VALOR01": 2362,
+      "VALOR02": 1983.7121
+    }
+  ],
+  "CHILE": [
+    {
+      "DESCRIPCION": "PERIODO",
+      "VALOR01": 6,
+      "VALOR02": 2026
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 06 Meses",
+      "VALOR01": 6.5255,
+      "VALOR02": 6.5465
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 12.0538,
+      "VALOR02": 12.60072
+    },
+    {
+      "DESCRIPCION": "Valor Libro",
+      "VALOR01": 56.5989,
+      "VALOR02": 57.5052
+    },
+    {
+      "DESCRIPCION": "Margen Directo / Ventas",
+      "VALOR01": 0.0398,
+      "VALOR02": 0.0595
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Ventas",
+      "VALOR01": 0.7735,
+      "VALOR02": 0.5955
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Cap. y Res.",
+      "VALOR01": 0.1388,
+      "VALOR02": 0.137
+    },
+    {
+      "DESCRIPCION": "Razon Circulante",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo Exigible / Patrimonio",
+      "VALOR01": 8.661,
+      "VALOR02": 8.5773
+    },
+    {
+      "DESCRIPCION": "Pasivo L. Plazo / Patrimonio",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Acciones en Circulacion",
+      "VALOR01": 101017081114,
+      "VALOR02": 101017081114
+    },
+    {
+      "DESCRIPCION": "Relacion Precio / Utilidad",
+      "VALOR01": 14.9745,
+      "VALOR02": 11.6671
+    },
+    {
+      "DESCRIPCION": "Relacion Bolsa / Libro",
+      "VALOR01": 3.1891,
+      "VALOR02": 2.5565
+    },
+    {
+      "DESCRIPCION": "Precio Cierre",
+      "VALOR01": 180.5,
+      "VALOR02": 147.0151
+    }
+  ],
+  "ENELGXCH": [
+    {
+      "DESCRIPCION": "PERIODO",
+      "VALOR01": 6,
+      "VALOR02": 2026
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 06 Meses",
+      "VALOR01": 29.7957,
+      "VALOR02": 30.03782
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 60.955,
+      "VALOR02": 92.49887
+    },
+    {
+      "DESCRIPCION": "Valor Libro",
+      "VALOR01": 318.9073,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Margen Directo / Ventas",
+      "VALOR01": 0.2216,
+      "VALOR02": 0.2777
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Ventas",
+      "VALOR01": 0.1941,
+      "VALOR02": 0.1652
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Cap. y Res.",
+      "VALOR01": 0.1031,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Circulante",
+      "VALOR01": 1.2281,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Acida",
+      "VALOR01": 1.1849,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo Exigible / Patrimonio",
+      "VALOR01": 0.5229,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo L. Plazo / Patrimonio",
+      "VALOR01": 0.1429,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Inversion",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Acciones en Circulacion",
+      "VALOR01": 8201754580,
+      "VALOR02": 8201754580
+    },
+    {
+      "DESCRIPCION": "Relacion Precio / Utilidad",
+      "VALOR01": 8.7479,
+      "VALOR02": 5.0665
+    },
+    {
+      "DESCRIPCION": "Relacion Bolsa / Libro",
+      "VALOR01": 1.6721,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Precio Cierre",
+      "VALOR01": 533.23,
+      "VALOR02": 468.6431
+    }
+  ],
+  "HABITAT": [
+    {
+      "DESCRIPCION": "PERIODO",
+      "VALOR01": 12,
+      "VALOR02": 2025
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 168.956,
+      "VALOR02": 144.98093
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 168.956,
+      "VALOR02": 144.98093
+    },
+    {
+      "DESCRIPCION": "Valor Libro",
+      "VALOR01": 400.7666,
+      "VALOR02": 349.0809
+    },
+    {
+      "DESCRIPCION": "Margen Directo / Ventas",
+      "VALOR01": 0.7694,
+      "VALOR02": 0.7815
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Ventas",
+      "VALOR01": 0.0641,
+      "VALOR02": 0.5571
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Cap. y Res.",
+      "VALOR01": 0.044,
+      "VALOR02": 0.7103
+    },
+    {
+      "DESCRIPCION": "Razon Circulante",
+      "VALOR01": 0.6303,
+      "VALOR02": 1.0437
+    },
+    {
+      "DESCRIPCION": "Razon Acida",
+      "VALOR01": 0.6303,
+      "VALOR02": 1.0437
+    },
+    {
+      "DESCRIPCION": "Pasivo Exigible / Patrimonio",
+      "VALOR01": 0.9255,
+      "VALOR02": 0.983
+    },
+    {
+      "DESCRIPCION": "Pasivo L. Plazo / Patrimonio",
+      "VALOR01": 0.2998,
+      "VALOR02": 0.5836
+    },
+    {
+      "DESCRIPCION": "Acciones en Circulacion",
+      "VALOR01": 1000000000,
+      "VALOR02": 1000000000
+    },
+    {
+      "DESCRIPCION": "Relacion Precio / Utilidad",
+      "VALOR01": 90.0944,
+      "VALOR02": 6.1007
+    },
+    {
+      "DESCRIPCION": "Relacion Bolsa / Libro",
+      "VALOR01": 3.7982,
+      "VALOR02": 2.5337
+    },
+    {
+      "DESCRIPCION": "Precio Cierre",
+      "VALOR01": 1522.2,
+      "VALOR02": 884.4975
+    }
+  ],
+  "LIPIGAS": [
+    {
+      "DESCRIPCION": "PERIODO",
+      "VALOR01": 6,
+      "VALOR02": 2026
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 06 Meses",
+      "VALOR01": 347.6857,
+      "VALOR02": 316.14519
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 739.6477,
+      "VALOR02": 885.73527
+    },
+    {
+      "DESCRIPCION": "Valor Libro",
+      "VALOR01": 2262.5378,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Margen Directo / Ventas",
+      "VALOR01": 0.3558,
+      "VALOR02": 0.3177
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Ventas",
+      "VALOR01": 0.0845,
+      "VALOR02": 0.0746
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Cap. y Res.",
+      "VALOR01": 0.1816,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Circulante",
+      "VALOR01": 1.6449,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Acida",
+      "VALOR01": 1.3851,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo Exigible / Patrimonio",
+      "VALOR01": 0.9757,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo L. Plazo / Patrimonio",
+      "VALOR01": 1.7133,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Inversion",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Acciones en Circulacion",
+      "VALOR01": 113574515,
+      "VALOR02": 113574515
+    },
+    {
+      "DESCRIPCION": "Relacion Precio / Utilidad",
+      "VALOR01": 11.3257,
+      "VALOR02": 5.5372
+    },
+    {
+      "DESCRIPCION": "Relacion Bolsa / Libro",
+      "VALOR01": 3.7025,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Precio Cierre",
+      "VALOR01": 8377,
+      "VALOR02": 4904.5017
+    }
+  ],
+  "PEHUENCHE": [
+    {
+      "DESCRIPCION": "PERIODO",
+      "VALOR01": 6,
+      "VALOR02": 2026
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 06 Meses",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 0,
+      "VALOR02": 275.58677
+    },
+    {
+      "DESCRIPCION": "Valor Libro",
+      "VALOR01": 220.4992,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Margen Directo / Ventas",
+      "VALOR01": 0.9473,
+      "VALOR02": 0.9095
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Ventas",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Cap. y Res.",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Circulante",
+      "VALOR01": 2.4094,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Acida",
+      "VALOR01": 2.3921,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo Exigible / Patrimonio",
+      "VALOR01": 0.3414,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo L. Plazo / Patrimonio",
+      "VALOR01": 0.218,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Inversion",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Acciones en Circulacion",
+      "VALOR01": 612625641,
+      "VALOR02": 612625641
+    },
+    {
+      "DESCRIPCION": "Relacion Precio / Utilidad",
+      "VALOR01": 0,
+      "VALOR02": 10.6761
+    },
+    {
+      "DESCRIPCION": "Relacion Bolsa / Libro",
+      "VALOR01": 11.5343,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Precio Cierre",
+      "VALOR01": 2543.3,
+      "VALOR02": 2942.1793
+    }
+  ],
+  "QUINENCO": [
+    {
+      "DESCRIPCION": "PERIODO",
+      "VALOR01": 6,
+      "VALOR02": 2026
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 06 Meses",
+      "VALOR01": 199.2784,
+      "VALOR02": 211.50605
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 405.7498,
+      "VALOR02": 628.31847
+    },
+    {
+      "DESCRIPCION": "Valor Libro",
+      "VALOR01": 5286.5218,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Margen Directo / Ventas",
+      "VALOR01": 0.145,
+      "VALOR02": 0.1342
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Ventas",
+      "VALOR01": 0.1055,
+      "VALOR02": 0.1242
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Cap. y Res.",
+      "VALOR01": 0.0392,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Circulante",
+      "VALOR01": 3.8156,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Acida",
+      "VALOR01": 3.4869,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo Exigible / Patrimonio",
+      "VALOR01": 6.0263,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo L. Plazo / Patrimonio",
+      "VALOR01": 0.3208,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Inversion",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Acciones en Circulacion",
+      "VALOR01": 1662759593,
+      "VALOR02": 1662759593
+    },
+    {
+      "DESCRIPCION": "Relacion Precio / Utilidad",
+      "VALOR01": 9.6734,
+      "VALOR02": 6.0613
+    },
+    {
+      "DESCRIPCION": "Relacion Bolsa / Libro",
+      "VALOR01": 0.7425,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Precio Cierre",
+      "VALOR01": 3925,
+      "VALOR02": 3808.41
+    }
+  ],
+  "SOQUICOM": [
+    {
+      "DESCRIPCION": "PERIODO",
+      "VALOR01": 6,
+      "VALOR02": 2026
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 06 Meses",
+      "VALOR01": 8.2184,
+      "VALOR02": 5.18966
+    },
+    {
+      "DESCRIPCION": "Util. x Accion en 12 Meses",
+      "VALOR01": 28.8367,
+      "VALOR02": 38.80895
+    },
+    {
+      "DESCRIPCION": "Valor Libro",
+      "VALOR01": 226.4071,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Margen Directo / Ventas",
+      "VALOR01": 0.145,
+      "VALOR02": 0.1108
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Ventas",
+      "VALOR01": 0.049,
+      "VALOR02": 0.0355
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Cap. y Res.",
+      "VALOR01": 0.0377,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Circulante",
+      "VALOR01": 2.2924,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Razon Acida",
+      "VALOR01": 1.126,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo Exigible / Patrimonio",
+      "VALOR01": 0.8038,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Pasivo L. Plazo / Patrimonio",
+      "VALOR01": 0.0874,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Utilidad Neta / Inversion",
+      "VALOR01": 0,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Acciones en Circulacion",
+      "VALOR01": 272116691,
+      "VALOR02": 272116691
+    },
+    {
+      "DESCRIPCION": "Relacion Precio / Utilidad",
+      "VALOR01": 12.8316,
+      "VALOR02": 9.8893
+    },
+    {
+      "DESCRIPCION": "Relacion Bolsa / Libro",
+      "VALOR01": 1.6343,
+      "VALOR02": 0
+    },
+    {
+      "DESCRIPCION": "Precio Cierre",
+      "VALOR01": 370.02,
+      "VALOR02": 383.7938
+    }
+  ]
+}
